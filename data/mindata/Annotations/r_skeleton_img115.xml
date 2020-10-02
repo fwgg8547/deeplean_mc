@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>r_skeleton_img115.jpg</filename>
+	<path>C:\2.Tool\Script\kerastest\yolov3-tf2\data\mindata\JPEGImages\r_skeleton_img115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>365</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skeleton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>2</ymin>
+			<xmax>335</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

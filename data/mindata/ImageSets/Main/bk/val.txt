@@ -1,0 +1,10 @@
+./data/mindata/JPEGImages/r_skeleton_img56.jpg 29,80,275,397,0
+./data/mindata/JPEGImages/r_skeleton_img57.jpg 116,87,203,252,0
+./data/mindata/JPEGImages/r_skeleton_img58.jpg 152,199,271,342,0
+./data/mindata/JPEGImages/r_skeleton_img59.jpg 110,20,281,178,0
+./data/mindata/JPEGImages/r_skeleton_img6.jpg 168,63,399,405,0
+./data/mindata/JPEGImages/r_skeleton_img60.jpg 196,148,226,225,0
+./data/mindata/JPEGImages/r_skeleton_img61.jpg 182,161,246,256,0
+./data/mindata/JPEGImages/r_skeleton_img7.jpg 164,80,264,304,0
+./data/mindata/JPEGImages/r_skeleton_img8.jpg 177,177,248,369,0
+./data/mindata/JPEGImages/r_skeleton_img9.jpg 170,102,249,325,0
